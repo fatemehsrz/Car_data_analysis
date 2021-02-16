@@ -3,5 +3,5 @@ This project contains the following steps:
 - Data Cleaning and Preprocessing
 - Classification (multiple classifiers)
 - Regression (multiple regressors)
-- Evaluationg results
+- Evaluating results
 
